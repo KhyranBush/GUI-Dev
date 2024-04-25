@@ -1,0 +1,6 @@
+Item Name,Price,Quantity
+T-shirt,15.99,50
+Jeans,29.99,30
+Sneakers,49.99,20
+Backpack,39.99,25
+Sunglasses,9.99,40
