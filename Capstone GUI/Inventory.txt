@@ -1,0 +1,10 @@
+Jeans,29.99
+Sneakers,49.99
+Backpack,39.99
+Sunglasses,9.99
+T-shirt,19.99
+Watch,79.99
+Hoodie,34.99
+Running Shoes,54.99
+Water Bottle,12.99
+Headphones,59.99
